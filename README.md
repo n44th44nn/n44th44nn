@@ -50,10 +50,10 @@ I enjoy working with data, building models, and exploring how intelligent system
 ## Connect with Me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-simamora-09aa89375/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_INSTAGRAM_URL" target="_blank">
+  <a href="https://www.instagram.com/n44th44nn/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
