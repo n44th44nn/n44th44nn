@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/nino-nakano-nino-nakano-surprised-quintessential-quintuplets-nino-quintessential-quintuplets-nino-surprised-gif-15270847836760059355" width="320" />
+  <img src="gif/nino.gif" width="320" />
 </p>
 
 # Hi, I'm **Jonathan** 👋
