@@ -1,9 +1,9 @@
 ![Nino GIF](gif/nino.gif)
 
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px"/>
+  <img src="gif/Earth.gif" width="24px"/>
   𝐇𝐞𝐥𝐥𝐨, I'm Jonathan!
-  <img src="GIF/Hi.gif" width="40px" />
+  <img src="gif/Hi.gif" width="40px" />
 </h1>
 
 Welcome to my cozy little dorm. I’m a computer science student who is interested in **Data Science**, **Machine Learning**, and currently learning **Deep Learning**.<br>I enjoy working with data, building models, and exploring how intelligent systems can solve real problems.
@@ -11,7 +11,7 @@ Welcome to my cozy little dorm. I’m a computer science student who is interest
 
 <h1>
   Connect With Me
-  <img src="GIF/Handshake.gif" height="25px"/>
+  <img src="gif/Handshake.gif" height="25px"/>
 </h1>
 
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/n44th44nn) [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/n44th44nn) [![email](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:n44th44nn999@gmail.com) 
