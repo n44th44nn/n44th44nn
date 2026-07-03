@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="gif/nino.gif" width="320" />
-</p>
+![Nino GIF](gif/nino.gif)
 
 # Hi, I'm **Jonathan** 👋
 
