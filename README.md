@@ -1,4 +1,6 @@
-<!-- GitHub Profile README -->
+<p align="center">
+  <img src="https://tenor.com/view/nino-nakano-nino-nakano-surprised-quintessential-quintuplets-nino-quintessential-quintuplets-nino-surprised-gif-15270847836760059355" width="320" />
+</p>
 
 # Hi, I'm **Jonathan** 👋
 
@@ -41,8 +43,8 @@ I enjoy working with data, building models, and exploring how intelligent system
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=n44th44nn&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n44th44nn&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
 
 ---
@@ -59,11 +61,3 @@ I enjoy working with data, building models, and exploring how intelligent system
 </p>
 
 ---
-
-## A Little Extra
-
-<p align="center">
-  <img src="YOUR_ANIME_GIF_URL" width="320" />
-</p>
-
-<!-- Optional: replace this with a cool GIF from Giphy, Tenor, or a direct image link -->
