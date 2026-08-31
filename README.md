@@ -1,4 +1,6 @@
-![Nino GIF](gif/nino.gif)
+<p align="center">
+  <img src="gif/nino.gif" width="70%" alt="Image description">
+</p>
 
 <h1 align="center">
 
